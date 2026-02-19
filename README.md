@@ -1,4 +1,5 @@
 🚗 Visualization Tool for Electric Vehicle Charge and Range Analysis
+
 📌 Project Overview
 
 This project is a data visualization–based system developed during an internship program to analyze and understand Electric Vehicle (EV) performance using interactive dashboards.
