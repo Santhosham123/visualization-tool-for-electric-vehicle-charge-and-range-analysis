@@ -62,10 +62,15 @@ The main objective of this project is to analyze electric vehicle charge and ran
 👥 Team Details (Smartinternz Internship)
 
 Team ID: LTVIP2026TMIDS24271
+
 Team Leader: Kamala Santhosham
+
 Team Member: Peddapalli Likhita
+
 Team Member: Mudili Lakshmi Srimannarayana Charan Teja
+
 Team Member: Nalluri Padmavathi
+
 
 📎 License
 
